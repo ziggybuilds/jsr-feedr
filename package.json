@@ -1,0 +1,33 @@
+{
+  "name": "feedr",
+  "version": "1.0.0",
+  "description": "FEEDR Single Page App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziggybuilds/jsr-feedr.git"
+  },
+  "author": "Joshua Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziggybuilds/jsr-feedr/issues"
+  },
+  "homepage": "https://github.com/ziggybuilds/jsr-feedr#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "pump": "^1.0.2"
+  }
+}
